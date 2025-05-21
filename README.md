@@ -1,6 +1,7 @@
 ## 기능 미리보기
 
-![기능 미리보기](./docs/assets/preview-feature.gif)
+![화면 기록 2025-05-21 오후 1 13 33](https://github.com/user-attachments/assets/ab95ad8a-0bad-4b71-bdd2-66a4c414e84f)
+
 
 ## 배경
 
