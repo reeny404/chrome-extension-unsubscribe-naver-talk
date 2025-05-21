@@ -1,7 +1,6 @@
 ## 기능 미리보기
 
-![미리보기](https://github.com/user-attachments/assets/7e8c4758-000d-4302-a19a-878303e5cd44)
-
+![미리보기](https://github.com/user-attachments/assets/1f419ba4-c11d-43dd-8a20-7a40733e18db)
 
 ## 배경
 
