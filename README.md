@@ -1,6 +1,6 @@
 ## 기능 미리보기
 
-https://github.com/reeny404/chrome-extension-unsubscribe-naver-talk/blob/main/docs/assets/preview.mov
+![기능 미리보기](./docs/assets/preview-feature.gif)
 
 ## 배경
 
