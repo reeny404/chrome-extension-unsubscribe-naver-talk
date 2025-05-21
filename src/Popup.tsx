@@ -17,10 +17,14 @@ const Popup: React.FC = () => {
 
   return (
     <div className="popup-container">
-      <h1 className="popup-title">네이버 알림톡 구독 해제</h1>
+      <h1 className="popup-title">네이버 채널 : 알림 한번에 끄기</h1>
       <button onClick={handleUnsubscribe} className="popup-button">
-        구독 해제 시작하기
+        시작하기
       </button>
+      <p className="popup-description">
+        <span>{new Date().toLocaleDateString()}</span>
+        <span>v1.0.0</span>
+      </p>
     </div>
   );
 };
