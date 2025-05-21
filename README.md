@@ -1,6 +1,6 @@
 ## 기능 미리보기
 
-![화면 기록 2025-05-21 오후 1 13 33](https://github.com/user-attachments/assets/ab95ad8a-0bad-4b71-bdd2-66a4c414e84f)
+![미리보기](https://github.com/user-attachments/assets/7e8c4758-000d-4302-a19a-878303e5cd44)
 
 
 ## 배경
