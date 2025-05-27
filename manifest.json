@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "name": "네이버 알림톡 구독 해제",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "네이버 알림톡 구독을 자동으로 해제하는 확장 프로그램",
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["activeTab"],
   "host_permissions": ["https://m.notify.naver.com/*"],
   "action": {
-    "default_popup": "src/popup/index.html"
+    "default_popup": "index.html"
   },
   "icons": {
     "16": "assets/logo.png",
@@ -17,7 +17,7 @@
   "content_scripts": [
     {
       "matches": ["https://m.notify.naver.com/*"],
-      "js": ["src/content/index.js"]
+      "js": ["content.js"]
     }
   ]
 }
