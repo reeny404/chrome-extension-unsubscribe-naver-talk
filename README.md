@@ -12,7 +12,11 @@
 <br />
 
 ## 기능을 사용하고 싶다면?
+- chrome web store link : https://chromewebstore.google.com/detail/ceflhhonpagiiebglibmimbkaabhodhi?utm_source=item-share-cb
 
+<br />
+
+## 현재 repo 코드로 기능을 테스트해보고 싶다면?
 - 자세한 사항은 [크롬 익스텐션 테스트하기](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=ko#load-unpacked) 문서 참조
 - 사용할 익스텐션 업로드할 때, **_dist 폴더_** 만 선택&업로드할 것
 ![image](https://github.com/user-attachments/assets/ae66a149-64b2-4811-8fd1-2cae3e91871a)
